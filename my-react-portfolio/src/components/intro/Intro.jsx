@@ -26,7 +26,7 @@ export default function Intro() {
           <h2>Hey There, I'm</h2>
           <h1>Shreyansh Keshav</h1>
           <h3>
-            Freelance <span ref={textRef}></span>
+            Web Developer <span ref={textRef}></span>
           </h3>
         </div>
         <a href="#portfolio">
