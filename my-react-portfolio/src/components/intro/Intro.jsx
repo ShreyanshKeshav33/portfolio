@@ -18,7 +18,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/man.png" alt="" /> //random photo
+          <img src="assets/wd.png" alt="" /> //random photo
         </div>
       </div>
       <div className="right">
